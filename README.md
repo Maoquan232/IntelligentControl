@@ -9,8 +9,8 @@ Thanks should go to the professor of the course,Pro.Deng Zhidong,from Department
 These files are distributed in the hope that it will be useful for beginners in Intelligent COntrol. 
 Review is welcome but COPY FOR THE COURESE is not recommended.
 
-Author£ºZhang Maoquan    
-Email:  zhangmq15@mails.tsinghua.edu.cn
-MATLAB Version: R2013a
-Update£º2016/7/24
+Author Zhang Maoquan    
+Email  zhangmq15@mails.tsinghua.edu.cn
+MATLAB Version  R2013a
+Update 2016/7/24
 
